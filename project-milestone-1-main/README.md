@@ -2,7 +2,7 @@
 This is my submission for the project Milestone 1 I have mad a website to inform the user about the cardgame Cardfight Vanguard and its two formats 
 
 ## Table of Contents
-- [Project Goals](#Project-Goals)
+- [Project Goals](#project-goals)
 - [Features](#features)
 - [Testing](#testing)
 
@@ -16,3 +16,4 @@ The primary goal of this website is to teach the audiance about the two main for
 
 
 ## Testing
+
