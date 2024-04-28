@@ -13,7 +13,11 @@ The primary goal of this website is to teach the audiance about the two main for
 ## Features
 - A Navigation bar to find the relevent section
 - Links to other resources
+- A basic summery of the two formats
+- Images to guide explanations
 
 
 ## Testing
+- make the 3 main pages that can link to eachother 
+- structure those pages with correct headings
 
