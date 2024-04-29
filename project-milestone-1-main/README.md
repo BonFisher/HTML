@@ -59,6 +59,7 @@ as a returning vanguard player aged 18 - 25 i want:
 ### Fix
 
 ## Design choices
+i have decided to model my design after a website called VG paradox, the biggest reason for this is this is a UI that returning players may be familier with
 
 ## Wireframes
 

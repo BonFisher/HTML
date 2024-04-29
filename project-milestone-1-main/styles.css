@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: gray;
+    color: white;
+    -webkit-text-stroke: 0.75px black;
+    font-size: 28px;
+    font-weight: 200;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px;
+}
+
+.nav{
+    margin: 0;
+}
+.nav ul{
+    list-style: none;
+    background: radial-gradient(rgb(194, 181, 181), black);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+
+}
+
+.nav a{
+color: aliceblue;
+text-decoration: none;
+padding: 30px;
+display: block;
+text-align: center;
+text-size-adjust: 50px;
+display: block;
+
+
+}
+
+.nav a:hover{
+    background-color:red;
+
+}
+
+
+.nav li{
+    float: right;
+    padding: 0px;
+}
