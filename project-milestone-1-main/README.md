@@ -53,9 +53,13 @@ as a returning vanguard player aged 18 - 25 i want:
 
 
 ## Testing
+here I will record any testing i have completed or in progress of:
 ### Expected
+- when the user presses play the video will start and the user will have the option to go to the source
 ### Testing
+- 
 ### Result
+-I have an error message ![Error1](../project-milestone-1-main/assets/error1.PNG)
 ### Fix
 
 ## Design choices

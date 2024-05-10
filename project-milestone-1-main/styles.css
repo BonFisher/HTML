@@ -1,48 +1,68 @@
-h1{
-    text-align: center;
-}
 
-body{
-    background-color: gray;
-    color: white;
-    -webkit-text-stroke: 0.75px black;
-    font-size: 28px;
-    font-weight: 200;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin: 0px;
-}
-
-.nav{
+#nav {
     margin: 0;
 }
-.nav ul{
-    list-style: none;
-    background: radial-gradient(rgb(194, 181, 181), black);
-    padding: 0px;
-    margin: 0px;
-    overflow: hidden;
-
-}
-
-.nav a{
-color: aliceblue;
-text-decoration: none;
-padding: 30px;
-display: block;
-text-align: center;
-text-size-adjust: 50px;
-display: block;
-
-
-}
-
-.nav a:hover{
-    background-color:red;
-
-}
-
 
 .nav li{
     float: right;
     padding: 0px;
+}
+
+.ui-menu-color-home{
+    background-color: darkred;
+}
+
+.ui-menu-color-standard{
+    background-color: darkred;
+}
+
+.ui-menu-color-premium{
+    background-color: darkred;
+}
+
+.list-inline-item:not(:last-child){
+    margin: 0;
+}
+
+.menucontainer{
+    font-size: 0;
+}
+
+#nav li {
+    font-size: 14px;
+    padding: 0;
+}
+
+.menuitem{
+    height: 120px;
+    text-align: center;
+    padding: 0;
+}
+.menuitem a{
+    width: 100;
+    text-decoration: none;
+    color: white;
+    height: 100px;
+}
+
+.menuitem a i{
+    padding-top: 22px;
+    display: block;
+    color: whitesmoke;
+    font-size: 26px;
+}
+
+.menuitem span{
+    display: block;
+    width:100%;
+    padding-top: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 350;
+    letter-spacing: 2px;
+}
+
+.nav.hover {
+    color: yellow;
 }
